@@ -1,0 +1,9 @@
+c:\users\musi\documents\visual studio 2017\Projects\Speack Recognition\Speack Recognition\bin\Debug\Speack Recognition.exe.config
+c:\users\musi\documents\visual studio 2017\Projects\Speack Recognition\Speack Recognition\bin\Debug\Speack Recognition.exe
+c:\users\musi\documents\visual studio 2017\Projects\Speack Recognition\Speack Recognition\bin\Debug\Speack Recognition.pdb
+c:\users\musi\documents\visual studio 2017\Projects\Speack Recognition\Speack Recognition\obj\Debug\Speack Recognition.csprojResolveAssemblyReference.cache
+c:\users\musi\documents\visual studio 2017\Projects\Speack Recognition\Speack Recognition\obj\Debug\Speack_Recognition.Properties.Resources.resources
+c:\users\musi\documents\visual studio 2017\Projects\Speack Recognition\Speack Recognition\obj\Debug\Speack Recognition.csproj.GenerateResource.Cache
+c:\users\musi\documents\visual studio 2017\Projects\Speack Recognition\Speack Recognition\obj\Debug\Speack Recognition.exe
+c:\users\musi\documents\visual studio 2017\Projects\Speack Recognition\Speack Recognition\obj\Debug\Speack Recognition.pdb
+C:\Users\Musi\Documents\Visual Studio 2017\Projects\Speack Recognition\Speack Recognition\obj\Debug\Speack_Recognition.Form1.resources
